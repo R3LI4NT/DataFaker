@@ -28,7 +28,7 @@ DataFaker es un script que utiliza la librería de <a href="https://faker.readth
 | --phone  | Generar numeros telefonicos falsos  |
 | --passport  | Generar numeros de pasaporte falsos  |
 
-`EJEMPLO:` **Generar 10 nombres falsos (Argentina): **
+`EJEMPLO:` **Generar 10 nombres falsos (Argentina):**
 ```
 python3 dataFaker.py -r es_AR --name -d 10
 ```
