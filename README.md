@@ -2,9 +2,7 @@
 
 DataFaker es un script que utiliza la librería de <a href="https://faker.readthedocs.io/en/master/">**Faker**</a> para generar información falsa a partir de la región especificada. Es capaz de generar direcciones de correo, números telefónicos, nombres, empleos de trabajos, número de pasaporte, direcciones geográficas, y URLs falsas. 
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/R3LI4NT/DataFaker/main/img/regions.png">
-</p>
+![regions](https://github.com/R3LI4NT/DataFaker/assets/75953873/c69a4e2c-3652-4da7-b6ac-9bd1a6368c9c)
 
 #### Instalación:
 
