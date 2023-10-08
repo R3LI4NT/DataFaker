@@ -126,7 +126,7 @@ if __name__ == '__main__':
         parse.add_argument('-n', '--name', help="Generar nombres falsos", action='store_true', required=False)
         parse.add_argument('-u', '--url', help="Generar URL falsas", action='store_true', required=False)
         parse.add_argument('-a', '--address', help="Generar direcciones falsas", action='store_true', required=False)
-        parse.add_argument('-e', '--email', help="Generar direcciones de correo falsas", action='store_true', required=False)
+        parse.add_argument('-e', '--email', help="Generar direcciones de correo falsos", action='store_true', required=False)
         parse.add_argument('-j', '--jobs', help="Generar empleos de trabajo", action='store_true', required=False)
         parse.add_argument('--phone', help="Generar numeros telefonicos falsos", action='store_true', required=False)
         parse.add_argument('--passport', help="Generar numeros de pasaporte falsos", action='store_true', required=False)
