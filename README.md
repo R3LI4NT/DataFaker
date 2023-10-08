@@ -34,10 +34,10 @@ python3 dataFaker.py -r es_AR --name -d 10
 
 ![names](https://github.com/R3LI4NT/DataFaker/assets/75953873/34497972-f9ce-4f41-bdec-b4dbdb977463)
 
-`EJEMPLO:` **Generar direcciones:**
+`EJEMPLO:` **Generar direcciones geográficas:**
 
 ```
-python3 dataFaker.py -r es_AR --address -d 15
+python3 dataFaker.py -r pt_BR --address -d 15
 ```
 
 ![address](https://github.com/R3LI4NT/DataFaker/assets/75953873/a307d8ec-94be-4f3e-800d-f5bbae71a46d)
