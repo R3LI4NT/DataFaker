@@ -24,7 +24,7 @@ DataFaker es un script que utiliza la librería de <a href="https://faker.readth
 | -n/--name  | Generar nombres falsos  |
 | -u/--url  | Generar URL falsas  |
 | -a/--address  | Generar direcciones falsas  |
-| -e/--email  | Generar direcciones de correo falsas  |
+| -e/--email  | Generar direcciones de correo falsos  |
 | --phone  | Generar numeros telefonicos falsos  |
 | --passport  | Generar numeros de pasaporte falsos  |
 
@@ -68,7 +68,7 @@ python3 dataFaker.py -r es_AR --jobs -d 5
 
 ![jobs](https://github.com/R3LI4NT/DataFaker/assets/75953873/d9da9a80-668f-42b7-af50-e72b9da29389)
 
-`EJEMPLO:` **Generar direcciones de correo falsas:**
+`EJEMPLO:` **Generar direcciones de correo falsos:**
 
 ```
 python3 dataFaker.py -r es_AR --email -d 5
