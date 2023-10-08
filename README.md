@@ -84,4 +84,4 @@ python3 dataFaker.py -r es_AR --passport -d 10
 
 
 
-No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo para Pentesting o fines educativos.
+No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo con fines educativos.
