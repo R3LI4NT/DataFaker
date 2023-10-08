@@ -83,3 +83,5 @@ python3 dataFaker.py -r es_AR --passport -d 10
 ![passport](https://github.com/R3LI4NT/DataFaker/assets/75953873/cdc91531-aef8-43f3-bbc9-e252ed3abdcd)
 
 
+
+No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo para Pentesting o fines educativos.
